@@ -1,5 +1,15 @@
 # Change Log
 
+## 3.3.0
+
+### Minor Changes
+
+- [#2190](https://github.com/openameba/spindle/pull/2190) [`316058a`](https://github.com/openameba/spindle/commit/316058ac0ee9cab79cb8f6e070bdf8c1888113bc) Thanks [@yanagi0602](https://github.com/yanagi0602)! - NavigationTabにCapsule StyleのCapsuleTabとInline StyleのInlineTabを追加。
+
+### Patch Changes
+
+- [#2190](https://github.com/openameba/spindle/pull/2190) [`316058a`](https://github.com/openameba/spindle/commit/316058ac0ee9cab79cb8f6e070bdf8c1888113bc) Thanks [@yanagi0602](https://github.com/yanagi0602)! - UnderlineTabでキーボード操作によるタブ移動時にfocusが移動しない問題を修正。
+
 ## 3.2.7
 
 ### Patch Changes
